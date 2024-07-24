@@ -7,6 +7,6 @@ export default defineConfig({
    build: {
     rollupOptions: {
       external: ['@fortawesome/free-brands-svg-icons']
-    }
+    },
   },
 });
